@@ -1,6 +1,6 @@
 def sumar(a, b):
  # TODO: implementar suma
- pass
+ return a + b
 def restar(a, b):
  return a - b
  pass
