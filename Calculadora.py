@@ -5,8 +5,8 @@ def restar(a, b):
  # TODO: implementar resta
  pass
 def multiplicar(a, b):
- # TODO: implementar multiplicación
- pass
+    return a * b
+pass
 def dividir(a, b):
  # TODO: implementar división
  pass
