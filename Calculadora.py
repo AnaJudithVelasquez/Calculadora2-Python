@@ -5,8 +5,8 @@ def restar(a, b):
  return a - b
  pass
 def multiplicar(a, b):
- # TODO: implementar multiplicación
- pass
+    return a * b
+pass
 def dividir(a, b):
     if b == 0:
         return "Error: No se puede dividir entre cero"
